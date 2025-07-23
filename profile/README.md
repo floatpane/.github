@@ -29,6 +29,20 @@ A minimal, floating wallpaper selector designed for speed and convenience. It's 
   </a>
 </p>
 
+
+### [floatpane-windows](https://github.com/floatpane/floatpane-windows)
+A beta version of the same wallpaper manager, optimized for Windows. It is not fully tested, be careful
+
+<p>
+  <a href="https://github.com/floatpane/floatpane-windows">
+    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/floatpane/floatpane-windows/releases/latest">
+    <img src="https://img.shields.io/github/v/release/floatpane/floatpane-windows?style=for-the-badge&label=Download%20Latest" alt="Download Latest"/>
+  </a>
+</p>
+
 ---
 
 ## ❤️ Support Our Work
