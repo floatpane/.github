@@ -27,19 +27,25 @@ A minimal, floating wallpaper selector designed for speed and convenience. It's 
   <a href="https://github.com/floatpane/floatpane/releases/latest">
     <img src="https://img.shields.io/github/v/release/floatpane/floatpane?style=for-the-badge&label=Download%20Latest" alt="Download Latest"/>
   </a>
+  <a href="https://floatpane.com">
+   <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" alt="open website"/>
+  </a>
 </p>
 
 
-### [floatpane-windows](https://github.com/floatpane/floatpane-windows)
-A beta version of the same wallpaper manager, optimized for Windows. It is not fully tested, be careful
+### [matcha](https://github.com/floatpane/matcha)
+A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! 
 
 <p>
-  <a href="https://github.com/floatpane/floatpane-windows">
+  <a href="https://github.com/floatpane/matcha">
     <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
   </a>
   &nbsp;
-  <a href="https://github.com/floatpane/floatpane-windows/releases/latest">
-    <img src="https://img.shields.io/github/v/release/floatpane/floatpane-windows?style=for-the-badge&label=Download%20Latest" alt="Download Latest"/>
+  <a href="https://github.com/floatpane/matcha/releases/latest">
+    <img src="https://img.shields.io/github/v/release/floatpane/matcha?style=for-the-badge&label=Download%20Latest" alt="Download Latest"/>
+  </a>
+  <a href="https://matcha.floatpane.com">
+   <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" alt="open website"/>
   </a>
 </p>
 
